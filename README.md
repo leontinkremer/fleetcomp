@@ -1,2 +1,2 @@
 # fleetcomp
-Entwicklung von cleveren und intuitiven Komponenten für Fleetmanagement-Software.
+Development of clever and intuitive components for fleet management software.
